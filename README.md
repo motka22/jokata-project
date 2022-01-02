@@ -1,2 +1,2 @@
-# jotaka-project
+# jokata-project
 ashin abhijata bhivamsa's project
